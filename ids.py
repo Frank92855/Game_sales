@@ -1,0 +1,6 @@
+BAR = "bar-chart"
+DROPDOWN = "dropdown_menu"
+PIE = "pie-chart"
+BAR1 = "bar-chart1"
+BAR2 = "bar-chart2"
+BAR3 = "bar-chart3"
